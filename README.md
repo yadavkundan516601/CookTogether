@@ -39,3 +39,9 @@ Auth required for create/rate/save and user endpoints. Use `Authorization: Beare
 - Images: URL-based only; added skeleton loading + emoji placeholder to handle slow/missing images. File uploads can be added later.
 - UI: community skew 40–65 → emphasized clarity, larger tap targets, strong contrast, and a dark mode toggle.
 
+## Screenshots
+
+### Web (Light)
+![Home - Light](/images/home.png)
+![Detail - Light](/images/details.png)
+![Add Recipe - Light](/images/add-reciepie.png)
